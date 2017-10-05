@@ -18,3 +18,6 @@ print(api.getStop("ISEN"))
         "Stop_name": "ISEN"
     }
 ]
+
+## Requirements
+pip3 install requests
